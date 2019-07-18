@@ -1,4 +1,5 @@
-<?php 
+<?php
+//test 
 error_reporting(0);
 $file=$_GET["file"];
 highlight_file(__FILE__);
